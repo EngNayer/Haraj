@@ -1,0 +1,104 @@
+body {
+    direction: ltr;
+    text-align: left;
+}
+
+.selector i{
+    right: 15px;
+}
+
+#nav-icon3 {
+    float: right;
+}
+
+.search button{
+    right: 0px;
+}
+
+.click_filter .selector {
+    margin-right: 10px;
+}
+
+.Drop_down:before{
+    right: 20px;
+}
+
+.link_setting li a {
+    text-align: left;
+}
+
+.Drop_down{
+    left: 20px !important;
+}
+
+.click_show_select{
+    right: 5px;
+}
+
+.children_category:after {
+    left: 0px;
+}
+
+.children_category li:after {
+    left: 0px;
+}
+
+
+.next_blog {
+    right: 10px;
+}
+
+.before_links{
+    text-align: left;
+}
+
+.list_setting button {
+    text-align: left;
+}
+
+.n_riyal{
+    right: 20px;
+}
+
+.click_model {
+    right: -150px;
+}
+
+.R_text{
+    right: -60px;
+}
+
+.head_view_chat .Drop_down {
+    left: -10px !important;
+}
+
+.click_back_chat, .head_title a {
+    transform: rotate(180deg);
+}
+
+
+
+
+
+
+
+/* Media Screen */
+
+@media screen and (max-width: 990px){
+
+
+}
+
+@media screen and (max-width: 767px) {
+
+    .overlay{
+        right: 0;
+        transform: translateX(100%);
+    }
+
+    .Nav_Mobile{
+        left: 0;
+        transform: translateX(-100%);
+    }
+
+}
