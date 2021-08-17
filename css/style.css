@@ -996,7 +996,7 @@ li{
 /* start loading */
 
 .loading {
-    background-color: rgba(0,0,0,0.7);
+    background-color: #0473c0;
     height: 100%;
     left: 0;
     position: fixed;
